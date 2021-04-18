@@ -1,0 +1,25 @@
+---
+title: "Welcome to Nicole's GW Class Website"
+description: |
+  Hi! Welcome to my Data Journalism class website. Hope you enjoy :)
+author:
+  - name: Nicole Miller 
+    url: https://www.google.com
+    affiliation: Spacely Sprockets
+    affiliation_url: https://example.com/spacelysprokets
+date: 04-18-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
+

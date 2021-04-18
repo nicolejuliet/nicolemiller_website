@@ -1,0 +1,25 @@
+---
+title: "About Me"
+description: |
+  Here's a little glimpse into who I am 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](images/2A0FDCC4-450C-4BFE-AD51-676FCCEE7F70.jpg){width="431"}
+
+-   I'm a 22 year old college senior who is graduating in about a month
+
+-   I hope to work in the fashion industry post grad
+
+-   I've lived on the East Coast my entire life (Central Jersey for the win) but am hoping to moving out West after graduation
+
+-   I absolutely love to travel and spent a year abroad in Paris and London. Hands down one of the best experiences of my life.
+
+-   I'm a Scorpio - October 24th 1998.
+
+-   My mom is from Colombia and Spanish was actually my first language.
+
+-   I'm obsessed with French Bulldogs (and have two)

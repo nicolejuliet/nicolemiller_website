@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About Me",
+      "description": "Here's a little glimpse into who I am ",
+      "author": [],
+      "contents": "\n\nI’m a 22 year old college senior who is graduating in about a month\nI hope to work in the fashion industry post grad\nI’ve lived on the East Coast my entire life (Central Jersey for the win) but am hoping to moving out West after graduation\nI absolutely love to travel and spent a year abroad in Paris and London. Hands down one of the best experiences of my life.\nI’m a Scorpio - October 24th 1998.\nMy mom is from Colombia and Spanish was actually my first language.\nI’m obsessed with French Bulldogs (and have two)\n\n\n\n",
+      "last_modified": "2021-04-18T16:29:07-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Nicole's GW Class Website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-04-18T16:29:07-04:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
