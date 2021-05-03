@@ -1,0 +1,59 @@
+---
+title: "The Importance of Marketing in Sports"
+description: |
+  Here is a short paper I wrote for my Global Sports Marketing class that explains the importance of sports marketing in recent years.
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+The world of sports marketing has grown tremendously within the past few years, especially in the US and UK. Its growth can be contributed to many things, however there are specific areas that have proved to be the biggest reason for its success. Advertising, technology and social media are components that have helped sports marketing in both countries immensely.
+
+Advertising has had a great impact on sports marketing. It allows the sports industry to spread messages on a vast scale while reaching multitudes of people (Thomas, 2019). Successful advertising leads to successful branding, which is essential for sports marketers to succeed. Educational advertising is a type of advertising that the sports marketing industry has successfully capitalized on. By definition, educational advertising involves using an educational platform to advertise. Daniel Geey, one of the UK's most highly respected sports lawyers, is an example of someone in the industry who has used educational advertising to his advantage. Geey has spoken at global conferences on topics involving football broadcasting rights, multiple club ownership and third party ownership (Geey, n.d). He has written a book called "Done Deal" that educates readers on the inner workings of football and the incidents he has dealt with first hand. Geey also launched a podcast where listeners can be informed about the football industry and hear about topics relating to the sport. Geey has built an impressive following because of these accomplishments, resulting in him being one of the most sought-after advisers for players, agents and clubs. He is a great example of how educational advertising can attract more attention to the sports industry. 
+
+Women in sports is another topic that has contributed to educational advertising, in both the US and UK. A Nielsen Sports report stated that 84% of general sports fans find women's sport more "inspiring" and "progressive" than the male version, which is seen by many as being more "money driven" (The Nielsen Company, 2018). These figures reveal the public's receptiveness to women's sports and the opportunity it presents for sports marketers to explore (Mulcahy, 2019). Equality, diversity and inclusion make brands more attractive to consumers and this is something that many sports companies are beginning to capitalize on. For example, women's sport was the focus of Nike's 'Dream Crazier' campaign. Starring tennis legend Serena Williams, the ad was an open call for women in sports to fight back against gender bias and unfair stereotyping (2019). The advertisement was a huge success for Nike and is an example of the importance advertising plays in sports marketing. Similarly, Sport England had a successful campaign titled "This Girl Can." This campaign confronted the issue of gender gap in sports participation between males and females in the UK. Its purpose was to encourage females to participate in sports and make it more relevant to them (Bashford, 2018). The ads ended up being a groundbreaking success and resulted in 2.8 million women engaging in more active lifestyles (Sport England, 2020). These two examples illustrate the importance of sports advertising in both countries. 
+
+Technology has also impacted sports marketing, especially in the way consumers watch sport today. With easy access to search engines such as Google, people have full access to the world of sports. Fans can simply search their interests and be exposed to thousands of results. Furthermore, technology has allowed sports organizations to engage with fans digitally, while also increasing the visibility of the teams. Fans are able to stream sports and watch games from their mobile devices. However, social broadcasting has become the real game-changer. Every time a Facebook post about an NFL game broadcast is shared during the 15 minutes prior to kickoff, 1,000 additional viewers tune in for the first minute of play, as shown by the figure below. If it weren't for technology, sports would not reach the level of viewership it has today. 
+
+\
+
+![](https://lh5.googleusercontent.com/56iOzma-hMNFbVsRM7rHR558PnzbTRBr2Q63DunCDYI6G8lX6LrFQ_XIaUpCB1Cc2zKnxVl4m15OVaGOcM1UnLka74MqqAjHtiGh6tkfKVnPWLXujkmTcQkrayLAPz8jkTRKTyCV){width="338"}
+
+\
+The growth of technology has contributed to the importance of social media channels. A big trend in sports marketing involves shifting to new and different platforms (Bashford, 2018). Social media is a great way for brands to advertise themselves for free. Instead of increasing the advertising budget, companies can use their social media pages to improve the visibility of games and events. Fans can then share the posts with their friends, extending the brand's reach without any additional costs. The graph below illustrates the increase in social media activity at the time of the Wimbledon tennis tournament from 2012-2014. In 2012, the Twitter mentions about the tournament were 2.5 million. One year later, the mentions grew to 5.7 million and by 2014, they were at 6 million. In just two years the Wimbledon Twitter mentions increased by 3.5 million, clearly illustrating the impact social media has had on sports.
+
+\
+\
+![](https://lh3.googleusercontent.com/PeAS3BiF3KLULOEckMbm6AAcssObtyByUJgEb-eVwN39FFOM0B0Wffm6H-099oAs2CKXlon9XxQWm7G1lhJPEiUpZFr3fUzwCio_I12HaLcLM4BE21bQYBpGlb1QDJIsLZ66hZZc){width="381"}
+
+Additionally, brand to fan communication is easier because of social media. These platforms present a humanized version of athletes and offer round-the-clock access to the sport (Business Wire, 2019). As a result, many sports marketers have taken advantage of influencer marketing. Sports brands use influencers to increase brand awareness, promote their merchandise and gain ticket sales. Influencer marketing can boost a brand's reputation and attract new people, resulting in increased business volume. Leveraging influencers is a great way for sports teams, leagues and organizations to engage with new audiences outside their typical fanbase (Gittleman 2019). Even athletes themselves have become sports influencers. Portuguese footballer Crisitano Ronaldo has 203.7 million Instagram followers arguably making him one of the world's top sports influencers. His influence is so great that he received nearly \$1 billion in revenue for his sponsors through social media, according to Forbes (Badenhausen, 2017). Ronaldo's influence is just one example of the impact influencer marketing has in this industry. 
+
+Sports marketing has clearly become an integral part of the sports world, and areas such as advertising and technology have contributed to its continued success. Educational advertising, and the use of social media/influencers are specific examples of how advertising and technology have benefited sports marketing in both the UK and US. All of these components have proved to be most effective in the sports marketing world and will likely continue to grow in importance for years to come.
+
+##### [References]{.ul}
+
+######  Badenhausen, K. (2017, July 12). Cristiano Ronaldo Produced Nearly \$1 Billion In Value For Sponsors On Social Media. Retrieved from [https://www.forbes.com/sites/kurtbadenhausen/2017/06/15/cristiano-ronaldo-produces-nearly-1-billion-in-value-for-sponsors-on-social-media-this-year/\#5bf3fca57df](https://www.forbes.com/sites/kurtbadenhausen/2017/06/15/cristiano-ronaldo-produces-nearly-1-billion-in-value-for-sponsors-on-social-media-this-year/#5bf3fca57df7)
+
+###### Bashford, S. (2018, September 4). What you need to know about sports marketing in 2017 and beyond. Retrieved from <https://www.campaignlive.co.uk/article/need-know-sports-marketing-2017-beyond/1424873#Trend01>
+
+###### Business Wire. (2019, December 4). Global \$9.3Bn Sports Management Software Market: Growth, Trends, and Forecasts (2019-2024) . Retrieved from <https://www.businesswire.com/news/home/20191204005637/en/Global-9.3Bn-Sports-Management-Software-Market-Growth>
+
+###### Geey, D. (n.d.). About- Daniel Geey. Retrieved from <https://www.danielgeey.com/about/>
+
+###### Gittleman, N. (2019, August 9). Incorporating Influencers into Your Sports Marketing Strategy. Retrieved from <https://influence.bloglovin.com/incorporating-influencers-into-your-sports-marketing-strategy-35a3781ab469> 
+
+###### Mulcahy, E. (2019, May 14). 5 of the biggest sports marketing trends of 2019. Retrieved from [https://www.thedrum.com/news/2019/05/14/5-the-biggest-sports-marketing-trends-201](https://www.thedrum.com/news/2019/05/14/5-the-biggest-sports-marketing-trends-2019)
+
+###### Sport England. (2020). This Girl Can Campaign Summary [PDF file] Retrieved from <https://sportengland-production-files.s3.eu-west-2.amazonaws.com/s3fs-public/2020-01/Campaign-Summary.pdf?Yu_jmNiqPxjL8IlJC0EqvKXjJ_GOFpfx>
+
+###### The Nielsen Company. (2018). The Rise of Women's Sports. Retrieved from <https://www.nielsen.com/eu/en/insights/report/2018/the-rise-of-womens-sports/#>
+
+###### Thomas, R. (2019, December 12). The History of Sports and Advertising - Sports Marketing Then and Now. Retrieved from <https://openmedia.uk.com/the-history-of-sports-and-advertising-sports-marketing-then-and-now/>
+
+\
+\
+\
+\
+\

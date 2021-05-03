@@ -1,0 +1,38 @@
+---
+title: "My Skills"
+description: |
+  Here are some of the skills that I have acquired throughout my professional career!
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### **Hard Skills:**
+
+-   Microsoft Office
+
+-   Google Suite
+
+-   Adobe Lightroom
+
+-   Final Cut Pro
+
+-   Cision
+
+-   R Studio
+
+### Soft Skills:
+
+-   Time Management
+
+-   Teamwork
+
+-   Multitasking
+
+-   Problem Solving
+
+-   Dependability
+
+-   Working Well Under Pressure

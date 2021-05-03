@@ -1,0 +1,11 @@
+---
+title: "My Experience"
+description: |
+  Below is my professional work experience
+---
+
+![](images/Screen%20Shot%202021-05-03%20at%201.07.32%20PM-01.png)
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

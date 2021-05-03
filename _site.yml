@@ -3,10 +3,32 @@ title: "Nicole's GW Class Website"
 description: |
   Nicole's GW Class Website
 output_dir: "_site"
+base_url: "https://nicolemiller.netlify.app"
 navbar:
   right:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Experiences"
+      href: experience.html
+    - text: "Skills"
+      href: skills.html
+    - text: "Work Samples"
+      href: contributors.html
+      menu:
+        - text: "Harrods Visual Analysis"
+          href: visualanalysis.html
+        - text: "Global Sports Marketing Paper"
+          href: sportsmarketing.html
+        - text: "Feature Story"
+          href: feature.html
+        - text: "Material Culture Analysis"
+          href: materialculture.html
+        - text: "Advertising Class Final"
+          href: advertising.html
+        - text: "Expat Blog Post"
+          href: expat.html
+
+        
 output: distill::distill_article
